@@ -1,0 +1,21 @@
+# Sitesmith
+
+> Sitesmith bygger hemsidor för hand åt kaféer, restauranger, barer och butiker i Göteborg. Företaget drivs av Simon Eriksson Schärlund. Den som är intresserad får ett gratis förslag, en färdig hemsida, innan något bestäms.
+
+## Fakta
+
+- Område: Göteborg med omnejd
+- Pris: 12 000 kr inklusive moms för en hel hemsida (design, bygge, publicering och två ändringsrundor). Hälften vid ja, hälften vid publicering.
+- Nya bilder ingår: Simon kommer och fotar.
+- Webbhotell: Netlify, gratis. En egen adress betalar kunden själv.
+- Tillval: ändringar efteråt 200 kr per ändring, Google-profilen 1 000 kr, ikonpaket 1 500 kr, fler språk 1 500 kr per språk.
+- Kontakt: sitesmith.se@gmail.com, Instagram @sitesmith.se
+
+## Sidor
+
+- [Sitesmith – hemsidor för hand åt företag i Göteborg](https://sitesmith.se/): så går det till, vad som ingår, exempel, ikonpaket, pris, testet "Hur mår er hemsida?" och vanliga frågor.
+- [Integritetspolicy](https://sitesmith.se/integritetspolicy.html): ingen spårning och inga cookies.
+
+## På andra ställen
+
+- https://www.instagram.com/sitesmith.se/

@@ -1,0 +1,11 @@
+# Säkerhetsrubriker för Netlify (22 okt 2026, efter OWASP Top 10:2025).
+# Sidan får bara köra sina egna skript och typsnitt från Bunny Fonts. Ändrar du skriptet i 404.html
+# måste hashen räknas om: python verktyg/sitesmith_headers.py
+/*
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'sha256-KhoEvcmHP4OTdgyURl0JjUdrxqrBjMwTYsApFYftqus='; style-src 'self' https://fonts.bunny.net; font-src 'self' https://fonts.bunny.net; img-src 'self' data:; connect-src 'self'; form-action 'self'; frame-ancestors 'none'; base-uri 'self'; object-src 'none'; upgrade-insecure-requests
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=(), payment=(), usb=()
+  Cross-Origin-Opener-Policy: same-origin
+  Strict-Transport-Security: max-age=31536000
